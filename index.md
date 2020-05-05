@@ -50,8 +50,8 @@ Por ejemplo: `ENTREGA Miguel Cervantes 1ESO A`
 
 Se irán subiendo materiales que puedan ayudar a la elaboración del trabajo para profuncizar en las distintas cuestiones.
 
-- SWARTZ, Aaron, 2017 -- *Manifiesto por la Guerrilla del Acceso Abierto*
-https://ia601903.us.archive.org/13/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf
+- SWARTZ, Aaron, 2017 -- **Manifiesto por la Guerrilla del Acceso Abierto:** [aquí](https://ia601903.us.archive.org/13/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf)
+
 
 # Más información
 ## [Anuncios](https://javieriesch.github.io/)
